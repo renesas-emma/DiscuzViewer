@@ -35,7 +35,7 @@ public class ThreadViewer extends Activity {
 
         @Override
         public void run() {
-            
+
         }
     }
 
